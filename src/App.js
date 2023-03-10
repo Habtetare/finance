@@ -1,19 +1,19 @@
 //import logo from './logo.svg';
 import './App.css';
 //import Hello from './components/Hello';
-import Message from './components/Message';
-import Profile from './components/Profile';
+//import Message from './components/Message';
+//import Profile from './components/Profile';
 //import Profile from './components/Profile';
 import Counter from './components/Counter'
-import Resume from './components/Resume';
+//import Resume from './components/Resume';
+//import FunctionEvent from './components/FunctionEvent';
+//import CLassEvent from './components/ClassEvent';
 
 function App() {
 
   return (
     <div className="App">
-      <Profile name="Tariku" lastname="wegayhu"/>
       <Counter/>
-      <Resume name="jibril"/>
     </div>
   );
 }
